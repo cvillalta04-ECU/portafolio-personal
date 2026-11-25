@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="claro-logo-title">
+  <title id="claro-logo-title">Logo de Claro</title>
+  <!-- Fondo limpio para destacar el isotipo oficial de Claro -->
+  <rect width="640" height="360" fill="#ffffff" />
+
+  <!-- Círculo principal rojo Claro -->
+  <circle cx="305" cy="192" r="108" fill="#da291c" />
+
+  <!-- Tres rayos característicos en la parte superior derecha -->
+  <line x1="382" y1="84" x2="395" y2="54" stroke="#da291c" stroke-width="14" stroke-linecap="round" />
+  <line x1="408" y1="108" x2="438" y2="83" stroke="#da291c" stroke-width="14" stroke-linecap="round" />
+  <line x1="422" y1="142" x2="458" y2="132" stroke="#da291c" stroke-width="14" stroke-linecap="round" />
+
+  <!-- Tipografía blanca Claro centrada dentro del círculo -->
+  <text
+    x="305"
+    y="214"
+    text-anchor="middle"
+    fill="#ffffff"
+    font-family="'Segoe UI', Arial, Helvetica, sans-serif"
+    font-size="68"
+    font-weight="800"
+    letter-spacing="-1.5"
+  >Claro</text>
+</svg>
