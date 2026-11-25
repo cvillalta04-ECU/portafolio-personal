@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="proj2-title">
+  <title id="proj2-title">Vista previa Proyecto 2: Portal MiClaro</title>
+  <rect width="640" height="360" fill="#fce8f3" />
+  <rect x="40" y="36" width="560" height="288" rx="14" fill="#ffffff" stroke="#ebd7e4" stroke-width="2" />
+  <rect x="64" y="60" width="512" height="40" rx="8" fill="#12284c" />
+  <rect x="84" y="72" width="120" height="16" rx="4" fill="#d9006c" />
+  <rect x="64" y="120" width="156" height="176" rx="10" fill="#faf7fa" stroke="#ebd7e4" stroke-width="2" />
+  <rect x="80" y="136" width="124" height="84" rx="6" fill="#f9a8d4" />
+  <rect x="80" y="234" width="96" height="14" rx="4" fill="#12284c" />
+  <rect x="80" y="258" width="60" height="20" rx="4" fill="#d9006c" />
+  <rect x="242" y="120" width="156" height="176" rx="10" fill="#faf7fa" stroke="#ebd7e4" stroke-width="2" />
+  <rect x="258" y="136" width="124" height="84" rx="6" fill="#009fe3" />
+  <rect x="258" y="234" width="104" height="14" rx="4" fill="#12284c" />
+  <rect x="258" y="258" width="60" height="20" rx="4" fill="#d9006c" />
+  <rect x="420" y="120" width="156" height="176" rx="10" fill="#faf7fa" stroke="#ebd7e4" stroke-width="2" />
+  <rect x="436" y="136" width="124" height="84" rx="6" fill="#12284c" />
+  <rect x="436" y="234" width="88" height="14" rx="4" fill="#12284c" />
+  <rect x="436" y="258" width="60" height="20" rx="4" fill="#d9006c" />
+</svg>

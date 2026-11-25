@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="proj1-title">
+  <title id="proj1-title">Vista previa Proyecto 1: Proyecto SDA Depósitos en Garantía</title>
+  <rect width="640" height="360" fill="#12284c" />
+  <rect x="40" y="36" width="560" height="288" rx="14" fill="#1b355e" stroke="#2c4b7c" stroke-width="2" />
+  <circle cx="72" cy="64" r="7" fill="#d9006c" />
+  <circle cx="96" cy="64" r="7" fill="#009fe3" />
+  <circle cx="120" cy="64" r="7" fill="#f8fafc" />
+  <rect x="72" y="102" width="220" height="24" rx="6" fill="#d9006c" />
+  <rect x="72" y="146" width="496" height="44" rx="8" fill="#12284c" />
+  <circle cx="100" cy="168" r="10" fill="#009fe3" />
+  <rect x="126" y="160" width="240" height="16" rx="4" fill="#e2e8f0" />
+  <rect x="72" y="204" width="496" height="44" rx="8" fill="#12284c" />
+  <circle cx="100" cy="226" r="10" fill="#d9006c" />
+  <rect x="126" y="218" width="290" height="16" rx="4" fill="#cbd5e1" />
+  <rect x="72" y="262" width="496" height="44" rx="8" fill="#12284c" />
+  <circle cx="100" cy="284" r="10" fill="#ff66b2" />
+  <rect x="126" y="276" width="200" height="16" rx="4" fill="#94a3b8" />
+</svg>
